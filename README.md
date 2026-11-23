@@ -10,6 +10,7 @@
 - **단면 상세도**: [docs/FS600-S01-section-detail.pdf](docs/FS600-S01-section-detail.pdf)
 - **조립도**: [docs/FS600-A01-assembly.pdf](docs/FS600-A01-assembly.pdf)
 - **3D 모델**: [model/flowskim-fs600.glb](model/flowskim-fs600.glb)
+- 작동 영상 (26초, 원리 애니메이션): images/flowskim-how-it-works.mp4
 
 ![플로스킴 FS-600 (3D 렌더)](images/product.jpg)
 
