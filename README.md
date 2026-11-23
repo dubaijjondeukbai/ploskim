@@ -1,4 +1,3 @@
-<img width="860" height="152" alt="image" src="https://github.com/user-attachments/assets/c76aa49f-a5b0-4a35-a269-66e11152cd69" />
 # 플로스킴 (FlowSkim) — 배수의 힘으로 도는 무전력 그리스트랩 스키머
 
 **2026 글로컬 미래도시 혁신 프로그램** · 서울시립대학교 · 팀 나는욜로
@@ -10,9 +9,9 @@
 - **발표자료**: [docs/pitch-deck.pdf](docs/pitch-deck.pdf)
 - **단면 상세도**: [docs/FS600-S01-section-detail.pdf](docs/FS600-S01-section-detail.pdf)
 - **조립도**: [docs/FS600-A01-assembly.pdf](docs/FS600-A01-assembly.pdf)
+- **작동 영상** (26초, 원리 애니메이션): [아래 '작동 원리'에서 바로 재생](#작동-원리) · [MP4 파일](https://dubaijjondeukbai.github.io/ploskim/images/flowskim-how-it-works.mp4)
 - **3D 모델**: [model/flowskim-fs600.glb](model/flowskim-fs600.glb)
 - **심사위원 배포 자료** (A4 2쪽): [docs/judge-handout.pdf](docs/judge-handout.pdf)
-- **작동 영상** (26초, 원리 애니메이션): [images/flowskim-how-it-works.mp4](images/flowskim-how-it-works.mp4)
 
 ![플로스킴 FS-600 (3D 렌더)](images/product.jpg)
 
@@ -34,7 +33,7 @@
 
 ![작동 원리 애니메이션](images/flowskim-how-it-works.gif)
 
-설계 치수로 만든 원리 애니메이션입니다(실물 시험 전, 속도와 기름 두께는 과장). 원본 영상: [images/flowskim-how-it-works.mp4](images/flowskim-how-it-works.mp4)
+설계 치수로 만든 원리 애니메이션입니다(실물 시험 전, 속도와 기름 두께는 과장). 원본 영상: [MP4 파일](https://dubaijjondeukbai.github.io/ploskim/images/flowskim-how-it-works.mp4)
 
 1. **물이 고입니다.** 싱크대 배수가 위쪽 유입구로 들어와 전도 물받이에 모입니다.
 2. **넘어가며 드럼을 돌립니다.** 물 무게로 물받이가 넘어갈 때마다 래칫이 드럼을 한 칸씩 돌립니다.
