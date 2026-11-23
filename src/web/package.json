@@ -1,0 +1,15 @@
+{
+  "name": "flowskim-site",
+  "private": true,
+  "description": "플로스킴 소개 페이지 빌드용 (3D 뷰어 번들)",
+  "scripts": {
+    "bundle": "esbuild viewer_entry.js --bundle --format=esm --minify --outfile=viewer_bundle.js",
+    "build": "npm run bundle && python3 build_site.py"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
