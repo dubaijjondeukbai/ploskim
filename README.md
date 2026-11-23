@@ -1,4 +1,4 @@
-# 플로스킴 (FlowSkim) — 배수의 힘으로 도는 무전력 그리스트랩 스키머
+<img width="860" height="152" alt="image" src="https://github.com/user-attachments/assets/c76aa49f-a5b0-4a35-a269-66e11152cd69" /># 플로스킴 (FlowSkim) — 배수의 힘으로 도는 무전력 그리스트랩 스키머
 
 **2026 글로컬 미래도시 혁신 프로그램** · 서울시립대학교 · 팀 나는욜로
 
@@ -11,6 +11,7 @@
 - **조립도**: [docs/FS600-A01-assembly.pdf](docs/FS600-A01-assembly.pdf)
 - **3D 모델**: [model/flowskim-fs600.glb](model/flowskim-fs600.glb)
 - **심사위원 배포 자료** (A4 2쪽): [docs/judge-handout.pdf](docs/judge-handout.pdf)
+- **작동 영상** (26초, 원리 애니메이션): [images/flowskim-how-it-works.mp4](images/flowskim-how-it-works.mp4)
 
 ![플로스킴 FS-600 (3D 렌더)](images/product.jpg)
 
