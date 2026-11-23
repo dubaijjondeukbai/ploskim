@@ -1,4 +1,5 @@
-<img width="860" height="152" alt="image" src="https://github.com/user-attachments/assets/c76aa49f-a5b0-4a35-a269-66e11152cd69" /># 플로스킴 (FlowSkim) — 배수의 힘으로 도는 무전력 그리스트랩 스키머
+<img width="860" height="152" alt="image" src="https://github.com/user-attachments/assets/c76aa49f-a5b0-4a35-a269-66e11152cd69" />
+# 플로스킴 (FlowSkim) — 배수의 힘으로 도는 무전력 그리스트랩 스키머
 
 **2026 글로컬 미래도시 혁신 프로그램** · 서울시립대학교 · 팀 나는욜로
 
